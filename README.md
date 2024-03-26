@@ -8,5 +8,5 @@ List of experiments is as follows :
 - Experiment 04 ~ Implement User-based Nearest neighbor recommendation
 - Experiment 05 ~ Implement Item-based Nearest neighbor recommendation
 - Experiment 06 ~ Implement Content-based recommendation system
-- Experiment 07 ~ Implementation of a recommendation system using Ensembled approach
+- Experiment 07 ~ Implementation of a recommendation system using Hybrid approach
 - Experiment 08 ~ Implementation of a Regression based recommendation system
